@@ -26,8 +26,12 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Fk Editor File Editor"
+config/name="【编辑器】中配置文本编辑器"
 run/main_scene="res://Main.tscn"
+boot_splash/image="res://addons/FKEditor_FileEditor/Assets/logo.png"
+boot_splash/fullsize=false
+boot_splash/bg_color=Color( 0.152941, 0.341176, 0.780392, 1 )
+config/icon="res://addons/FKEditor_FileEditor/Assets/logo.png"
 
 [physics]
 
